@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\bin\Debug\net8.0\eletiva-git.exe
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\bin\Debug\net8.0\eletiva-git.deps.json
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\bin\Debug\net8.0\eletiva-git.runtimeconfig.json
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\bin\Debug\net8.0\eletiva-git.dll
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\bin\Debug\net8.0\eletiva-git.pdb
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\eletiva-git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\eletiva-git.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\eletiva-git.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\eletiva-git.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\eletiva-git.sourcelink.json
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\eletiva-git.dll
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\refint\eletiva-git.dll
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\eletiva-git.pdb
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\eletiva-git.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Git\eletiva-git\ProjCal\obj\Debug\net8.0\ref\eletiva-git.dll
