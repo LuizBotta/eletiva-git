@@ -21,6 +21,5 @@ int n2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Digite um numero: ");
 double n3 = double.Parse(Console.ReadLine());
 
-Console.WriteLine(Soma(n1, n2));
-Console.WriteLine(Sub(n1, n2));
-Console.WriteLine(Raiz(n3));
+
+Console.WriteLine($"Soma: {Soma(n1, n2)}\nSubtração: {Sub(n1, n2)}\nRaiz Quadrada: {Raiz(n3)}")
