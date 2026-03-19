@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Git\\eletiva-git\\ProjCal\\eletiva-git.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Repositorio\\eletiva-git\\ProjCal\\eletiva-git.csproj",
       "projectName": "eletiva-git",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\Git\\eletiva-git\\ProjCal\\eletiva-git.csproj",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\Repositorio\\eletiva-git\\ProjCal\\eletiva-git.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\Git\\eletiva-git\\ProjCal\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\Repositorio\\eletiva-git\\ProjCal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

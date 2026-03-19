@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eletiva-git")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d26dac5ff36eaedc904d5f67c429e90aecdaf9f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6884e7dde863d7ce4614ba7bc753a1ff04d89730")]
 [assembly: System.Reflection.AssemblyProductAttribute("eletiva-git")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eletiva-git")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,4 +22,5 @@ Console.WriteLine("Digite um numero: ");
 double n3 = double.Parse(Console.ReadLine());
 
 
-Console.WriteLine($"Soma: {Soma(n1, n2)}\nSubtração: {Sub(n1, n2)}\nRaiz Quadrada: {Raiz(n3)}")
+Console.WriteLine($"Soma: {Soma(n1, n2)}\nSubtração: {Sub(n1, n2)}\nRaiz Quadrada: {Raiz(n3)}");
+Console.WriteLine("Isso é bugfix");
